@@ -1,0 +1,6 @@
+dist
+node_modules
+resources/images
+resources/recordings
+.parcel-cache
+.ipynb_checkpoints

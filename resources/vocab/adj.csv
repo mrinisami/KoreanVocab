@@ -1,0 +1,839 @@
+,en,ko,type
+73,other,다른,adj
+86,new,새로운,adj
+108,good,좋은,adj
+139,high,높은,adj
+150,old,낡은,adj
+158,great,엄청난,adj
+160,big,큰,adj
+174,American,미국 사람,adj
+201,small,작은,adj
+219,large,크기가 큰,adj
+230,national,국가의,adj
+233,young,어린,adj
+236,different,다른,adj
+252,black,검은색,adj
+253,long,긴,adj
+255,little,작은,adj
+265,important,중요한,adj
+276,political,정치적인,adj
+281,bad,나쁜,adj
+300,white,하얀,adj
+304,real,진짜,adj
+308,best,베스트,adj
+316,right,오른쪽,adj
+318,social,사회의,adj
+327,only,뿐,adj
+332,public,공공의,adj
+346,sure,확실한,adj
+359,low,낮은,adj
+364,early,일찍,adj
+384,able,할 수 있는,adj
+398,human,인간,adj
+422,local,현지의,adj
+436,late,늦은,adj
+437,hard,딱딱한,adj
+443,major,주요한,adj
+451,better,더 나은,adj
+452,economic,간결한,adj
+457,strong,강한,adj
+458,possible,가능한,adj
+466,whole,전부의,adj
+472,free,무료,adj
+473,military,군대,adj
+491,TRUE,진실,adj
+492,federal,연방,adj
+499,international,국제적인,adj
+502,full,가득한,adj
+519,special,특별한,adj
+548,easy,쉬운,adj
+562,clear,분명한,adj
+566,recent,최근의,adj
+576,certain,확실한,adj
+579,personal,개인의,adj
+580,open,열려 있는,adj
+596,red,빨간색,adj
+607,difficult,어려운,adj
+621,available,사용 가능,adj
+623,likely,~할 것 같은,adj
+626,short,짧은,adj
+631,single,하나의,adj
+645,medical,의료,adj
+651,current,현재의,adj
+654,wrong,잘못된,adj
+670,private,사적인,adj
+679,past,과거,adj
+688,foreign,외국의,adj
+703,fine,좋아,adj
+711,common,흔한,adj
+712,poor,가난한,adj
+714,natural,자연스러운,adj
+718,significant,중요한,adj
+719,similar,비슷한,adj
+720,hot,더운,adj
+725,dead,죽은,adj
+741,central,본부,adj
+746,happy,행복하다,adj
+754,serious,심각한,adj
+757,ready,준비가 된,adj
+762,simple,단순한,adj
+770,left,왼쪽,adj
+802,physical,물리적 인,adj
+804,general,일반,adj
+820,environmental,환경,adj
+828,financial,재정적인,adj
+843,blue,푸른,adj
+854,democratic,민주적,adj
+858,dark,어두운,adj
+860,various,여러,adj
+869,entire,전체,adj
+880,close,닫다,adj
+884,legal,합법적인,adj
+885,religious,종교적인,adj
+886,cold,추운,adj
+888,final,결정적인,adj
+889,main,기본,adj
+891,green,초록,adj
+898,nice,멋진,adj
+912,huge,거대한,adj
+925,popular,인기 있는,adj
+926,traditional,전통적인,adj
+932,cultural,문화,adj
+942,wide,넓은,adj
+949,particular,특정한,adj
+959,top,맨 위,adj
+975,far,멀리,adj
+976,deep,깊은,adj
+979,individual,개인,adj
+980,specific,특정한,adj
+983,necessary,필요한,adj
+989,middle,가운데,adj
+993,beautiful,아름다운,adj
+1006,heavy,무거운,adj
+1007,sexual,성적,adj
+1013,tough,힘든,adj
+1028,commercial,광고,adj
+1040,total,총,adj
+1048,modern,현대의,adj
+1051,positive,긍정적인,adj
+1052,civil,예의 바른,adj
+1060,safe,안전한,adj
+1074,interesting,흥미로운,adj
+1077,rich,부자,adj
+1081,western,서부 사람,adj
+1092,senior,상위,adj
+1095,key,열쇠,adj
+1096,professional,직업적인,adj
+1103,successful,성공적인,adj
+1106,southern,남부 지방 사투리,adj
+1107,fresh,신선한,adj
+1112,global,글로벌,adj
+1127,critical,위독한,adj
+1129,concerned,관심 있는,adj
+1134,effective,효과적인,adj
+1136,original,원래의,adj
+1145,basic,기초적인,adj
+1160,powerful,강한,adj
+1161,perfect,완벽한,adj
+1176,involved,관련된,adj
+1178,nuclear,핵무기,adj
+1185,British,영국,adj
+1205,African,아프리카 사람,adj
+1206,very,매우,adj
+1207,sorry,죄송합니다,adj
+1219,normal,정상,adj
+1220,Chinese,중국인,adj
+1238,front,앞쪽,adj
+1246,supposed,추정된,adj
+1250,Soviet,옛 소련,adj
+1262,future,미래,adj
+1264,potential,잠재적인,adj
+1267,European,유럽 ​​사람,adj
+1269,independent,독립적인,adj
+1276,Christian,신자,adj
+1279,willing,자발적인,adj
+1281,previous,이전,adj
+1285,interested,관심 있는,adj
+1297,wild,야생의,adj
+1304,average,평균,adj
+1307,quick,빠른,adj
+1308,light,빛,adj
+1313,bright,밝은,adj
+1318,tiny,매우 작은,adj
+1324,additional,추가의,adj
+1335,present,현재,adj
+1361,warm,따뜻한,adj
+1366,annual,연간,adj
+1367,French,프랑스 국민,adj
+1370,responsible,책임이 있는,adj
+1375,regular,정기적인,adj
+1379,soft,부드러운,adj
+1401,female,여자,adj
+1405,afraid,두려워하는,adj
+1408,native,토종의,adj
+1409,broad,넓은,adj
+1410,wonderful,아주 멋진,adj
+1418,growing,성장,adj
+1439,Indian,인도 사람,adj
+1440,quiet,조용한,adj
+1443,aware,알고 있는,adj
+1445,complete,완벽한,adj
+1449,active,활동적인,adj
+1451,chief,셰프,adj
+1456,cool,시원한,adj
+1463,dangerous,위험한,adj
+1465,moral,도의적인,adj
+1466,United,연합,adj
+1471,academic,학생,adj
+1474,healthy,건강한,adj
+1476,negative,부정적인,adj
+1477,following,수행원,adj
+1478,historical,역사적인,adj
+1485,direct,직접,adj
+1490,daily,일일,adj
+1491,fair,공정한,adj
+1493,famous,유명한,adj
+1499,familiar,친숙한,adj
+1500,appropriate,적절한,adj
+1510,eastern,동부,adj
+1511,primary,일 순위,adj
+1521,clean,깨끗한,adj
+1531,tall,키가 큰,adj
+1537,male,남성,adj
+1539,alive,살아 있는,adj
+1550,extra,추가의,adj
+1554,domestic,국내의,adj
+1562,northern,북부 사투리,adj
+1568,dry,마른,adj
+1569,Russian,러시아인,adj
+1574,sweet,달콤한,adj
+1586,corporate,기업,adj
+1587,strange,이상한,adj
+1590,urban,도시의,adj
+1591,mental,정신적인,adj
+1594,educational,교육적인,adj
+1600,favorite,가장 좋아하는,adj
+1604,greatest,가장 큰,adj
+1605,complex,복잡한,adj
+1612,scientific,과학,adj
+1613,impossible,불가능한,adj
+1617,married,기혼,adj
+1618,alone,홀로,adj
+1622,presidential,대통령,adj
+1623,emotional,감정적인,adj
+1625,Supreme,최고,adj
+1628,thin,얇은,adj
+1651,empty,비어 있는,adj
+1652,regional,지역,adj
+1660,Iraqi,사람,adj
+1672,expensive,값비싼,adj
+1673,yellow,노란색,adj
+1675,prime,초기,adj
+1682,like,처럼,adj
+1698,obvious,분명한,adj
+1711,comfortable,편안한,adj
+1715,angry,화난,adj
+1729,Japanese,일본어,adj
+1732,thick,두꺼운,adj
+1737,unique,독특한,adj
+1739,internal,내부,adj
+1740,ethnic,민족,adj
+1750,actual,실제,adj
+1757,sick,아픈,adj
+1767,Catholic,가톨릭,adj
+1772,long-term,장기간,adj
+1773,slow,느린,adj
+1780,brown,갈색,adj
+1781,standard,기준,adj
+1794,English,영어,adj
+1801,funny,재미있는,adj
+1806,correct,옳은,adj
+1807,Jewish,유대인,adj
+1815,crazy,미친,adj
+1821,just,단지,adj
+1830,ancient,고대의,adj
+1833,golden,황금,adj
+1835,German,독일 사람,adj
+1840,used,사용된,adj
+1842,equal,동일한,adj
+1844,official,공식적인,adj
+1847,typical,전형적인,adj
+1849,conservative,보수적인,adj
+1867,smart,똑똑한,adj
+1884,rare,희귀한,adj
+1903,separate,분리된,adj
+1907,mean,평균,adj
+1925,industrial,산업,adj
+1932,surprised,놀란,adj
+1937,busy,바쁘다,adj
+1942,cheap,값이 싼,adj
+1947,gray,회색,adj
+1953,overall,전반적인,adj
+1955,initial,초기의,adj
+1956,terrible,끔찍한,adj
+1958,contemporary,현대의,adj
+1960,multiple,다수의,adj
+1961,essential,필수적인,adj
+1964,criminal,범인,adj
+1965,careful,주의 깊은,adj
+1967,upper,높은,adj
+1971,tired,피곤한,adj
+1977,vast,대단한,adj
+1993,limited,제한된,adj
+1994,proud,자랑스러운,adj
+1997,increased,증가,adj
+2005,enormous,막대한,adj
+2007,liberal,선심 쓰는,adj
+2008,massive,엄청난,adj
+2018,rural,시골의,adj
+2021,narrow,좁은,adj
+2025,solid,단단한,adj
+2041,useful,유용한,adj
+2043,secret,비밀,adj
+2052,unusual,특이한,adj
+2064,sharp,날카로운,adj
+2065,creative,창의적인,adj
+2070,outside,밖의,adj
+2071,gay,게이,adj
+2073,proper,적절한,adj
+2074,live,라이브,adj
+2075,guilty,죄책감이 드는,adj
+2076,living,생활,adj
+2079,technical,전문인,adj
+2084,weak,약한,adj
+2085,illegal,불법적인,adj
+2098,fun,재미있는,adj
+2100,Israeli,이스라엘 인,adj
+2112,spiritual,영적인,adj
+2113,musical,뮤지컬,adj
+2135,dramatic,극적인,adj
+2138,excellent,훌륭한,adj
+2143,lucky,운이 좋은,adj
+2153,unable,할 수 없는,adj
+2162,sad,슬퍼,adj
+2163,brief,짧은,adj
+2167,existing,기존의,adj
+2172,remaining,남아 있습니다,adj
+2173,visual,시각,adj
+2176,violent,폭력적인,adj
+2177,silent,조용한,adj
+2189,later,나중에,adj
+2197,immediate,즉각적인,adj
+2201,mass,대량의,adj
+2206,leading,주요한,adj
+2219,Arab,아라비아 사람,adj
+2220,double,더블,adj
+2223,Spanish,스페인의,adj
+2229,formal,공식적인,adj
+2236,joint,관절,adj
+2239,opposite,반대,adj
+2243,consistent,일관된,adj
+2254,grand,멋진,adj
+2261,racial,인종,adj
+2266,Mexican,멕시코 인,adj
+2275,online,온라인,adj
+2286,glad,기쁜,adj
+2287,ordinary,평범한,adj
+2293,numerous,많은,adj
+2299,practical,현실적인,adj
+2312,amazing,놀라운,adj
+2313,intense,극심한,adj
+2321,visible,보이는,adj
+2326,competitive,경쟁력 있는,adj
+2328,congressional,의회,adj
+2347,fundamental,근본적인,adj
+2348,severe,중증,adj
+2355,fat,지방,adj
+2360,still,아직,adj
+2369,Asian,아시아 사람,adj
+2375,digital,디지털,adj
+2379,usual,보통의,adj
+2381,psychological,심리적,adj
+2385,increasing,증가,adj
+2394,holy,거룩한,adj
+2405,so-called,소위,adj
+2406,constant,끊임없는,adj
+2412,capable,유능한,adj
+2413,nervous,불안한,adj
+2417,crucial,중대한,adj
+2427,electronic,전자,adj
+2436,pure,순수한,adj
+2441,fellow,사람,adj
+2442,smooth,매끄러운,adj
+2443,nearby,가까운,adj
+2470,inner,안의,adj
+2471,junior,후진,adj
+2477,due,~로 인한,adj
+2478,straight,똑바로,adj
+2480,pretty,예쁜,adj
+2484,permanent,영구적 인,adj
+2489,wet,젖은,adj
+2510,pink,분홍색,adj
+2514,historic,역사적인,adj
+2524,apparent,명백한,adj
+2527,sensitive,예민한,adj
+2531,reasonable,합리적인,adj
+2533,wooden,활기 없는,adj
+2534,elementary,초등,adj
+2536,aggressive,적극적인,adj
+2537,FALSE,거짓,adj
+2540,extreme,극심한,adj
+2547,Latin,라틴어,adj
+2552,honest,솔직한,adj
+2553,Palestinian,팔레스타인 사람,adj
+2560,giant,거대한,adj
+2565,substantial,상당한,adj
+2574,conventional,전통적인,adj
+2583,fast,빠른,adj
+2586,biological,생물학적,adj
+2590,flat,평평한,adj
+2593,mad,미친,adj
+2598,alternative,대안,adj
+2602,armed,무장,adj
+2605,clinical,객관적인,adj
+2613,Muslim,이슬람교도,adj
+2617,Islamic,이슬람,adj
+2623,ultimate,궁극적인,adj
+2626,valuable,귀중한,adj
+2631,minor,미성년자,adj
+2636,developing,개발 중,adj
+2637,classic,권위 있는,adj
+2646,extraordinary,기이한,adj
+2648,rough,거친,adj
+2650,pregnant,임신한,adj
+2651,distant,먼,adj
+2658,Italian,이탈리아 사람,adj
+2659,Canadian,캐나다 사람,adj
+2663,universal,만능인,adj
+2672,super,감독자,adj
+2680,bottom,맨 아래,adj
+2696,lost,잃어버린,adj
+2708,unlikely,~할 것 같지 않은,adj
+2710,constitutional,헌법,adj
+2715,broken,고장난,adj
+2717,electric,전기 같은,adj
+2721,literary,문호,adj
+2723,stupid,멍청한,adj
+2726,strategic,전략적,adj
+2729,remarkable,놀랄 만한,adj
+2737,blind,눈이 먼,adj
+2742,genetic,유전 적,adj
+2750,chemical,화학적인,adj
+2752,accurate,정확한,adj
+2758,Olympic,올림피아 경기,adj
+2760,odd,이상한,adj
+2763,tight,단단한,adj
+2766,solar,태양,adj
+2770,square,정사각형,adj
+2773,complicated,복잡한,adj
+2782,friendly,친숙한,adj
+2788,tremendous,엄청난,adj
+2797,innocent,순결한,adj
+2800,remote,원격,adj
+2805,raw,날것의,adj
+2807,surprising,놀라운,adj
+2819,mutual,상호간의,adj
+2822,advanced,고급의,adj
+2833,attractive,매력적인,adj
+2835,diverse,다양한,adj
+2836,relevant,관련 있는,adj
+2837,ideal,이상적인,adj
+2841,working,일하고 있는,adj
+2846,unknown,알려지지 않은,adj
+2847,assistant,어시스턴트,adj
+2866,extensive,광범위합니다,adj
+2872,loose,헐렁한,adj
+2876,considerable,많은,adj
+2878,intellectual,지적인,adj
+2884,external,외부,adj
+2886,confident,자신감,adj
+2888,sudden,갑자기,adj
+2889,dirty,더러운,adj
+2902,defensive,방어 적,adj
+2917,comprehensive,포괄적인,adj
+2918,prominent,중요한,adj
+2923,stable,안정적인,adj
+2928,elderly,연세가 드신,adj
+2936,steady,꾸준한,adj
+2937,vital,필수적인,adj
+2946,mere,단지,adj
+2947,exciting,신나는,adj
+2950,radical,근본적인,adj
+2953,Irish,아일랜드의,adj
+2956,pale,창백한,adj
+2960,round,둥근,adj
+2968,ill,아픈,adj
+2978,vulnerable,취약한,adj
+2988,scared,무서운,adj
+2994,ongoing,전진,adj
+3004,athletic,운동,adj
+3005,slight,근소한,adj
+3021,efficient,효율적인,adj
+3028,closer,더 가깝습니다,adj
+3038,wealthy,풍부한,adj
+3040,given,주어진,adj
+3044,OK,확인,adj
+3052,incredible,믿을 수 없는,adj
+3054,rapid,빠른,adj
+3058,painful,괴로운,adj
+3078,helpful,도움이 되는,adj
+3092,organic,본질적인,adj
+3098,proposed,제안,adj
+3100,sophisticated,정교한,adj
+3104,asleep,죽어,adj
+3113,controversial,논란이 많은,adj
+3114,desperate,자포자기한,adj
+3118,loud,시끄러운,adj
+3121,sufficient,충분한,adj
+3126,modest,보통의,adj
+3129,agricultural,농업,adj
+3137,curious,궁금한,adj
+3138,downtown,도심,adj
+3146,eager,열렬한,adj
+3148,detailed,상세한,adj
+3158,romantic,로맨틱,adj
+3169,orange,주황색,adj
+3173,temporary,일시적인,adj
+3178,relative,상대적인,adj
+3184,brilliant,훌륭한,adj
+3190,absolute,순수한,adj
+3193,offensive,공격,adj
+3201,terrorist,테러리스트,adj
+3202,dominant,우성,adj
+3206,hungry,굶주린,adj
+3212,naked,적나라한,adj
+3221,legitimate,정당한,adj
+3229,dependent,매달린,adj
+3231,institutional,제도적,adj
+3244,civilian,일반 민간인,adj
+3246,weekly,주간,adj
+3260,wise,지혜로운,adj
+3265,gifted,재능,adj
+3275,firm,단단한,adj
+3276,running,달리기,adj
+3278,distinct,별개의,adj
+3279,artistic,예술적,adj
+3284,impressive,감동적인,adj
+3286,ugly,못생긴,adj
+3287,worried,걱정하는,adj
+3292,moderate,보통의,adj
+3293,subsequent,후속,adj
+3294,continued,계속되는,adj
+3298,frequent,잦은,adj
+3302,awful,끔찍한,adj
+3308,widespread,펼친,adj
+3310,lovely,사랑스러운,adj
+3317,everyday,매일,adj
+3324,adequate,적절한,adj
+3332,principal,주요한,adj
+3336,concrete,콘크리트,adj
+3338,African-American,아프리카 계 미국인,adj
+3347,changing,바꾸다,adj
+3349,colonial,식민지 주민,adj
+3363,dear,~에게,adj
+3365,sacred,신성한,adj
+3368,cognitive,인지,adj
+3369,collective,집단,adj
+3370,exact,정확한,adj
+3377,okay,좋아요,adj
+3378,homeless,노숙자,adj
+3419,gentle,온화한,adj
+3420,related,관련된,adj
+3426,fit,맞다,adj
+3438,magic,마법,adj
+3439,superior,우수한,adj
+3443,acceptable,허용 가능,adj
+3450,continuous,마디 없는,adj
+3454,excited,흥분한,adj
+3459,bitter,격렬한,adj
+3460,bare,없는,adj
+3465,subtle,미묘한,adj
+3479,pleased,기쁜,adj
+3483,ethical,윤리적,adj
+3484,secondary,중고등 학년,adj
+3487,experimental,실험,adj
+3490,net,그물,adj
+3494,evident,분명한,adj
+3499,harsh,가혹한,adj
+3501,suburban,교외,adj
+3507,retail,소매,adj
+3517,classical,고전,adj
+3518,estimated,추정된,adj
+3524,patient,인내심 있는,adj
+3528,missing,잃어버린,adj
+3533,reliable,믿을 수 있는,adj
+3537,Roman,로마 인,adj
+3540,occasional,가끔,adj
+3541,administrative,행정,adj
+3543,deadly,치명적인,adj
+3545,Hispanic,히스패닉,adj
+3550,monthly,월간 간행물,adj
+3553,Korean,한국인,adj
+3560,mainstream,주류,adj
+3563,unlike,같지 않은,adj
+3570,longtime,오랫동안,adj
+3575,legislative,입법,adj
+3582,plain,솔직한,adj
+3588,strict,엄격한,adj
+3595,inevitable,불가피한,adj
+3600,unexpected,예기치 않은,adj
+3606,overwhelming,압도적,adj
+3612,written,쓴,adj
+3636,maximum,최고,adj
+3647,medium,중간,adj
+3648,outdoor,집 밖의,adj
+3654,random,무작위의,adj
+3666,minimum,최저한의,adj
+3667,fiscal,회계,adj
+3672,uncomfortable,불편한,adj
+3678,welcome,환영하다,adj
+3680,continuing,계속합니다,adj
+3686,chronic,만성병 환자,adj
+3687,peaceful,평화로운,adj
+3701,retired,은퇴했습니다,adj
+3704,grateful,고마워하는,adj
+3706,virtual,가상,adj
+3711,indigenous,토착,adj
+3712,closed,닫은,adj
+3729,weird,기이한,adj
+3733,outer,밖의,adj
+3735,drunk,술 취한,adj
+3743,intelligent,지능적인,adj
+3747,convinced,확신,adj
+3748,driving,운전,adj
+3756,endless,끝이 없습니다,adj
+3764,mechanical,기계적,adj
+3769,profound,심오한,adj
+3782,genuine,진실한,adj
+3786,horrible,끔찍한,adj
+3787,behavioral,행동 적,adj
+3788,exclusive,독점적인,adj
+3803,meaningful,의미가 있습니다,adj
+3806,technological,기술,adj
+3808,pleasant,즐거운,adj
+3812,frozen,겨울 왕국,adj
+3818,theoretical,이론적 인,adj
+3822,delicate,연약한,adj
+3826,electrical,전기 같은,adj
+3845,invisible,보이지 않는,adj
+3854,mild,경증,adj
+3860,identical,동일한,adj
+3861,precise,정밀한,adj
+3862,anxious,불안해하는,adj
+3863,structural,구조적,adj
+3864,residential,주거,adj
+3871,nonprofit,비영리 단체,adj
+3874,handsome,멋있는,adj
+3879,promising,유망한,adj
+3880,conscious,의식하는,adj
+3890,evil,사악한,adj
+3903,teenage,십대,adj
+3909,decent,품위 있는,adj
+3911,oral,경구,adj
+3920,generous,관대한,adj
+3929,purple,자주색,adj
+3931,bold,굵게,adj
+3932,reluctant,주저하는,adj
+3966,judicial,사법,adj
+3969,full-time,풀 타임,adj
+3975,regulatory,규제,adj
+3976,diplomatic,외교,adj
+3977,elegant,우아한,adj
+3988,interior,내부,adj
+3990,casual,평상복,adj
+4004,productive,생산적인,adj
+4006,civic,시민,adj
+4009,steep,험한,adj
+4015,dynamic,동적,adj
+4016,scary,무서운,adj
+4025,disappointed,실망한,adj
+4026,precious,귀중한,adj
+4028,representative,대표,adj
+4029,content,콘텐츠,adj
+4030,realistic,현실적입니다,adj
+4032,hidden,숨겨진,adj
+4034,tender,부드러운,adj
+4037,outstanding,훌륭해,adj
+4039,lonely,외로운,adj
+4041,artificial,인공의,adj
+4043,abstract,요약,adj
+4045,silly,바보 같은,adj
+4048,shared,공유,adj
+4052,revolutionary,혁명적,adj
+4071,rear,뒤쪽,adj
+4074,coastal,연안의,adj
+4078,burning,타고 있는,adj
+4079,verbal,언어 적,adj
+4080,tribal,부족,adj
+4081,ridiculous,말도 안 되는,adj
+4082,automatic,자동적 인,adj
+4089,divine,신성한,adj
+4097,Dutch,네덜란드 사람,adj
+4102,Greek,그리스 어,adj
+4117,talented,재간 있는,adj
+4119,stiff,뻣뻣한,adj
+4122,extended,펼친,adj
+4126,toxic,독성,adj
+4127,alleged,주장 된,adj
+4130,mysterious,신비한,adj
+4141,parental,부모,adj
+4151,protective,보호,adj
+4154,faint,희미한,adj
+4161,shallow,얕은,adj
+4166,improved,향상,adj
+4167,bloody,피의,adj
+4169,associated,관련된,adj
+4173,near,가까운,adj
+4181,optimistic,낙관적인,adj
+4197,symbolic,상징적,adj
+4204,hostile,적의,adj
+4207,combined,결합,adj
+4213,mixed,혼합,adj
+4219,tropical,열렬한,adj
+4234,spectacular,장관,adj
+4236,sheer,얇은,adj
+4237,prior,이전의,adj
+4238,immune,면역성 있는,adj
+4243,exotic,이국적인,adj
+4244,fascinating,매력적인,adj
+4245,secure,안전한,adj
+4254,ideological,이데올로기,adj
+4256,secular,속가,adj
+4257,intimate,친밀한,adj
+4263,neutral,중립적,adj
+4265,flexible,유연한,adj
+4266,progressive,진보적,adj
+4273,terrific,훌륭한,adj
+4275,functional,기능의,adj
+4288,cooperative,협력적인,adj
+4299,tragic,비참한,adj
+4308,underlying,밑에 있는,adj
+4318,sexy,섹시한,adj
+4328,costly,비용이 많이 들었습니다,adj
+4329,ambitious,거창한,adj
+4332,influential,힘 있는,adj
+4334,uncertain,불확실한,adj
+4337,statistical,통계,adj
+4339,metropolitan,대주교,adj
+4340,rolling,구르는,adj
+4341,aesthetic,미적인,adj
+4347,expected,예상되는,adj
+4350,royal,왕실의,adj
+4356,minimal,최소,adj
+4361,anonymous,익명의,adj
+4367,instructional,교육,adj
+4376,fixed,결정된,adj
+4377,experienced,경험이 풍부합니다,adj
+4385,upset,속상한,adj
+4388,cute,귀엽다,adj
+4390,short-term,단기,adj
+4394,passing,통과,adj
+4397,known,모두 다 아는,adj
+4412,encouraging,격려,adj
+4421,accessible,얻기 쉬운,adj
+4427,dried,건조한,adj
+4429,pro,찬성,adj
+4444,well-known,잘 알려진,adj
+4445,surrounding,주변,adj
+4446,ecological,생태 학적,adj
+4448,unprecedented,전례 없는,adj
+4451,preliminary,예비의,adj
+4453,shy,수줍은,adj
+4456,disabled,장애가 있는,adj
+4457,gross,역겨운,adj
+4458,damn,젠장,adj
+4463,associate,연관짓다,adj
+4482,innovative,혁신적입니다,adj
+4489,vertical,세로,adj
+4500,instant,즉각적인,adj
+4505,required,필수의,adj
+4507,colorful,화려한,adj
+4520,organizational,조직,adj
+4523,nasty,끔찍한,adj
+4526,emerging,신흥,adj
+4529,fierce,사나운,adj
+4531,rational,합리적인,adj
+4537,vocal,보컬,adj
+4540,unfair,불공정,adj
+4543,risky,위험한,adj
+4549,depressed,우울한,adj
+4551,closest,가장 가까운,adj
+4567,supportive,지지 적,adj
+4577,informal,비공식,adj
+4578,Persian,페르시아 인,adj
+4584,perceived,인식,adj
+4585,sole,밑창,adj
+4594,partial,부분적,adj
+4600,added,추가,adj
+4618,excessive,과도한,adj
+4619,high-tech,하이테크,adj
+4623,logical,논리적,adj
+4629,blank,공백,adj
+4634,dying,사망,adj
+4635,developmental,발달,adj
+4636,faster,더 빠르게,adj
+4646,striking,치는,adj
+4652,embarrassed,당황스러운,adj
+4653,fucking,빌어 먹을,adj
+4655,isolated,외딴,adj
+4657,suspicious,의심스러운,adj
+4660,eligible,자격이 있는,adj
+4667,demographic,인구 통계,adj
+4677,intact,손대지 않은,adj
+4682,elaborate,정교한,adj
+4690,comparable,유사한,adj
+4697,awake,깨어 있는,adj
+4700,feminist,여권 주장자,adj
+4710,dumb,멍청한,adj
+4714,philosophical,철학적,adj
+4717,municipal,시립,adj
+4732,neat,정돈된,adj
+4737,mobile,이동하는,adj
+4750,brutal,잔인한,adj
+4754,voluntary,자발적인,adj
+4756,valid,유효한,adj
+4768,unhappy,불행한,adj
+4770,coming,오는,adj
+4773,distinctive,독특합니다,adj
+4776,calm,침착한,adj
+4782,theological,신학 적,adj
+4786,fragile,부서지기 쉬운,adj
+4789,old-fashioned,구식,adj
+4790,crowded,붐비는,adj
+4797,fantastic,환상적입니다,adj
+4799,level,수준,adj
+4803,liquid,액체,adj
+4809,suitable,적합한,adj
+4813,cruel,잔혹한,adj
+4822,loyal,충실한,adj
+4841,rubber,고무,adj
+4845,favorable,유리한,adj
+4847,veteran,재향 군인,adj
+4848,integrated,통합,adj
+4868,blond,금발,adj
+4876,explicit,명백한,adj
+4878,disturbing,방해,adj
+4880,magnetic,자기,adj
+4883,devastating,지독한,adj
+4887,neighboring,이웃,adj
+4894,consecutive,연이은,adj
+4895,republican,공화주의자,adj
+4897,worldwide,세계적인,adj
+4907,brave,용감한,adj
+4916,dense,밀집한,adj
+4919,sunny,맑은,adj
+4932,compelling,설득력,adj
+4937,troubled,문제가 발생했습니다,adj
+4940,balanced,균형이 잡힌,adj
+4952,flying,나는,adj
+4953,sustainable,지속 가능한,adj
+4959,skilled,숙련 된,adj
+4960,managing,관리,adj
+4962,marine,선박,adj
+4964,organized,조직,adj
+4967,boring,지루한,adj
+4972,fatal,치명적인,adj
+4979,inherent,내재 된,adj
+4986,selected,선택된,adj
+4993,naval,해군,adj
+4996,middle-class,중산층,adj

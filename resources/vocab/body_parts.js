@@ -1,0 +1,11 @@
+const body_parts = {en:{"0":"ass","1":"back","2":"beard","3":"bicep","4":"boobs","5":"calves","6":"cheek","7":"chin","8":"dimple","9":"earlobe","10":"ears","11":"elbow","12":"eyebrows","13":"eyelashes","14":"eyes","15":"face","16":"finger","17":"foot","18":"forearm","19":"forehead","20":"hair","21":"hamstring","22":"hand","23":"head","24":"index finger","25":"jaw","26":"knee","27":"knuckle","28":"leg","29":"lips","30":"middle finger","31":"mouth","32":"neck","33":"nose","34":"nostril","35":"penis","36":"quadriceps","37":"ring finger","38":"shin","39":"shoulder","40":"shoulder blades","41":"smile","42":"teeth","43":"thumb","44":"toe","45":"tongue","46":"tricep","47":"vagina"},ko:{"0":"\ub098\uadc0","1":"\ub4a4","2":"\uc218\uc5fc","3":"\uc774\ub450\uadfc","4":"\uac00\uc2b4","5":"\uc1a1\uc544\uc9c0","6":"\ubcfc","7":"\ud131","8":"\ubcf4\uc870\uac1c","9":"\uadd3\ubd88","10":"\uadc0","11":"\ud314\uafc8\uce58","12":"\ub208\uc379","13":"\uc18d\ub208\uc379","14":"\ub208","15":"\uc5bc\uad74","16":"\uc190\uac00\ub77d","17":"\ubc1c","18":"\uc804\uc644","19":"\uc774\ub9c8","20":"\uba38\ub9ac\uce74\ub77d","21":"\ud584\uc2a4\ud2b8\ub9c1","22":"\uc190","23":"\uba38\ub9ac","24":"\uc9d1\uac8c \uc190\uac00\ub77d","25":"\ud131","26":"\ubb34\ub98e","27":"\ub3cc\uae30","28":"\ub2e4\ub9ac","29":"\uc785\uc220","30":"\uac00\uc6b4\ub370 \uc190\uac00\ub77d","31":"\uc785","32":"\ubaa9","33":"\ucf54","34":"\ucf67 \uad6c\uba4d","35":"\uc74c\uacbd","36":"\uc0ac\ub450\uadfc","37":"\uc57d\uc190\uac00\ub77d","38":"\uc815\uac15\uc774","39":"\uc5b4\uae68","40":"\uc5b4\uae68 \ub0a0","41":"\uc6c3\ub2e4","42":"\uc774","43":"\ubb34\uc9c0","44":"\ubc1c\uac00\ub77d","45":"\ud600","46":"\uc0bc\ub450\uadfc","47":"\uc9c8"}}
+
+export const bodyParts = [{en: 'ankle', ko: '\ubc1c\ubaa9', wordId: 48, mp3Path: `/resources/recordings/ankle_\ubc1c\ubaa9.mp3`,
+ imgPath: `/resources/images/bodyParts/ankle/Image_1.jpg`}]
+
+const maxIter = Object.keys(body_parts.en).length
+
+for (let i = 0; i < maxIter; i++) {
+    bodyParts.push({en: body_parts.en[i], ko: body_parts.ko[i], mp3Path: `/resources/recordings/${body_parts.en[i]}_${body_parts.ko[i]}.mp3`, 
+    wordId: i, imgPath: `/resources/images/bodyParts/${body_parts.en[i]}/Image_1.jpg`})
+}
